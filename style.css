@@ -10,3 +10,7 @@ img{
     border-radius: 20px;
     background-color: rgb(46, 49, 49);
 }
+
+.seccion-borde{
+    border-radius:20px;
+}
